@@ -22,11 +22,18 @@ O BitBot faz a leitura de uma URL de busca no Google e retorna o valor inserido 
 
 Eu inseri a função dentro de um `setInverval()` para que ela pudesse atualizar a cada segundo. Assim como os `console.log()` com as informações exibidas para no usuário no terminal.
 
+### 🔎 Como utilizar
+
+- `git clone` no link do repositório
+- Instalado em sua maquína você precisará instalar as dependencias do projeto.
+- `npm install`
+- Basta executar o arquivo `bitSearch.js` direto no node ou no terminal
+
+
  
 ### 🔧 Próximos passos
  
 - Adicionar elemento de questionário para realizar o scraping de outras moedas
-
 
 
 ### 🎨 Autor
